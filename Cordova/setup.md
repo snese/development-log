@@ -47,3 +47,8 @@ bower install angular
 
 bower install angular-sanitize
 ```
+
+# Simple httpd server
+```shell
+python -m SimpleHTTPServer 8080
+```
