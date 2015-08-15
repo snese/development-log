@@ -45,6 +45,9 @@ sudo npm install -g bower
 ```shell
 sudo npm install -g grunt
 ```
+```shell
+sudo npm install -g grunt-cli
+```
 # [Mobile Angular UI](http://mobileangularui.com/)
 ```shell
 sudo npm imstall -g mobile-angular-ui
