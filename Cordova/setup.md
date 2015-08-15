@@ -41,6 +41,10 @@ In this case, once you run prepare, you can use Apple's Xcode SDK as an alternat
 ```shell
 sudo npm install -g bower
 ```
+# [Grunt](http://gruntjs.com/)
+```shell
+sudo npm install -g grunt
+```
 # [Mobile Angular UI](http://mobileangularui.com/)
 ```shell
 sudo npm imstall -g mobile-angular-ui
