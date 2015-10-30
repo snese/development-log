@@ -17,7 +17,21 @@
 
 ### [Alcatraz](http://alcatraz.io/)
 Xcode Package Manager.
-
+#### Install
+Paste this into your terminal:
+```bash
+curl -fsSL https://raw.githubusercontent.com/supermarin/Alcatraz/deploy/Scripts/install.sh | sh
+```
+Alcatraz is available for OSX 10.9+ and Xcode 5+ only.
+#### Uninstall
+Delete the plugin:
+```
+rm -rf ~/Library/Application\ Support/Developer/Shared/Xcode/Plug-ins/Alcatraz.xcplugin
+```
+Remove all cached data:
+```
+rm -rf ~/Library/Application\ Support/Alcatraz
+```
 ### [Backlight](https://github.com/limejelly/Backlight-for-XCode)
 Highlights the current editing line in Xcode
 ![image](https://raw.githubusercontent.com/limejelly/Backlight-for-XCode/master/screenshot.png)
